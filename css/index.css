@@ -190,6 +190,11 @@ nav {
   font-size: 1.8rem;
   padding-top: 10px;
 }
+nav a {
+  justify-content: space-around;
+  text-decoration: none;
+  color: black;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed #C0C0C0;
@@ -207,7 +212,7 @@ nav {
   justify-content: space-around;
   border-radius: 20px;
   padding: 20px 0;
-  margin: 20px 0;
+  margin: 10px 30px 20px;
   background-color: #17A2B8;
   color: #FFFFFF;
 }
